@@ -1,6 +1,6 @@
 # Switch
 Switch is also a JavaScript Conditional and logic syntax.
-# Sopic 
+# Topic 
 Switch, switch is javascript language which also used for conditional and logic syntax. 
 Howerver I've used I really love switch.
 
