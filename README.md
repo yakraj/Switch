@@ -9,6 +9,6 @@ Howerver I've used I really love switch.
 2. easy and clear code.
 3. less effort. 
 
-# Comparition with if else
+# Comparison with if else
 Yes this also works as like if else forms but there is a different and easy coding syntax. 
 As i've used this is really easy for multipurpose conditional syntax.
